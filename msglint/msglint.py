@@ -17,5 +17,6 @@ def main():
     else:
         logging.warning("First param should be directoy path to check")
 
+
 if __name__ == '__main__':
     exit(main())
